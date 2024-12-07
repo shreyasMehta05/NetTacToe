@@ -1,5 +1,6 @@
 
 # NetTacToe 🎮🌐
+![Waketime](https://img.shields.io/badge/Waketime-64%20hrs%2042%15mins-blueviolet?style=flat&labelColor=black&logo=clock&logoColor=white)
 
 **NetTacToe** is a multiplayer Tic-Tac-Toe game developed in C, implementing both **TCP** (Transmission Control Protocol) and **UDP** (User Datagram Protocol) protocols for communication between players. The game allows two players to play Tic-Tac-Toe over a network, with one server hosting the game and clients connecting to it.
 
